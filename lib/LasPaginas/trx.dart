@@ -12,7 +12,7 @@ class TrxPage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.network("https://raw.githubusercontent.com/GarciaValenciaJulian0498/UII_Act3_Drawer_Rutas_Nom498/refs/heads/main/carros/trx1.jpg", width: 200, height: 200),
+            Image.network("https://raw.githubusercontent.com/GarciaValenciaJulian0498/UII_Act3_Drawer_Rutas_Nombradas/refs/heads/main/carros/trx.jpg", width: 200, height: 200),
             const Text("TRX", style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold)),
             const Text("\$7,000,000", style: TextStyle(fontSize: 20, color: Colors.green)),
           ],
